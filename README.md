@@ -2,7 +2,7 @@
 
 - 🔭 I’m Full Stack Web Developer
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything Database Languages(My Sql, Sql Server)
+- 💬 Ask me anything about Database Languages(My Sql, Sql Server)
 - 📫 How to reach me:https://adityaray539.github.io/portfolio/
   
 ### Connect with me:
