@@ -1,6 +1,13 @@
 <h1 align="center">Hey Everyone 👋, I'm Aditya Kumar Ray</h1>
 
 
+<h2>My skills:</h2> 
+<ul>
+  <li>HTML, CSS, JavaScript</li>
+  <li>NodeJS</li>
+</ul>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
