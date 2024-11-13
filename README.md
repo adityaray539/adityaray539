@@ -24,6 +24,13 @@ Also I have a great experience & interest in computer networking and hardware at
 </p>
 <p>I am looking for an opportunity where i can develop my practical knowldege and want to gain experience.</p>
 
+<h3>My Projects:</h3>
+<ul>
+  <li>
+    Personal Portfolio
+  </li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
