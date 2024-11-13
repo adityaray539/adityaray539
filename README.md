@@ -4,10 +4,9 @@
 <h2>My skills:</h2> 
 <ul>
   <li>HTML, CSS, JavaScript</li>
-  <li>NodeJS</li>
+  <li>NodeJS, MongoDB, Expess</li>
   <li>MySQL, SQL Server</li>
   <li>PHP</li>
-  <li>MongoDB, Expess</li>
   <li>C Programming language</li>
   <li>C++ Programming language</li>
   <li>Java Programming language</li>
