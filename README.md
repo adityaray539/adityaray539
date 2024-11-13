@@ -11,6 +11,9 @@
   <li>C Programming language</li>
   <li>C++ Programming language</li>
   <li>Java Programming language</li>
+  <li>Networking</li>
+  <li>Databases</li>
+  <li>Microsoft Excel, PowerPoint</li>
 </ul>
 
 
