@@ -8,6 +8,9 @@
   <li>MySQL, SQL Server</li>
   <li>PHP</li>
   <li>MongoDB, Expess</li>
+  <li>C Programming language</li>
+  <li>C++ Programming language</li>
+  <li>Java Programming language</li>
 </ul>
 
 
