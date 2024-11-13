@@ -27,7 +27,7 @@ Also I have a great experience & interest in computer networking and hardware at
 <h3>My Projects:</h3>
 <ul>
   <li>
-    Personal Portfolio
+    <i>Personal Portfolio</i>
   </li>
   <p>
     In my perosnal Portfolio, I used some languages like HTML, CSS, JavaScript and Online Database, Through online database we can get the E-mail messages of the users.
