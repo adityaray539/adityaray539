@@ -5,6 +5,9 @@
 <ul>
   <li>HTML, CSS, JavaScript</li>
   <li>NodeJS</li>
+  <li>MySQL, SQL Server</li>
+  <li>PHP</li>
+  <li>MongoDB, Expess</li>
 </ul>
 
 
