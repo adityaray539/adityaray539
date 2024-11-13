@@ -22,6 +22,7 @@
 I am an obedient final year year Student of Cimage college, I completed internship as Web developer at Octanet and Fronted Web Developer at CodSoft.
 Also I have a great experience & interest in computer networking and hardware at last I want to make my career in the tech field also want to learn more and more to obtain success. I completed internship as Web developer at Octanet and CodSoft Also I have a great experience & interest in computer networking and hardware at last I want to make my career in the tech field also want to learn more and more to obtain success.
 </p>
+<p>I am looking for an opportunity where i can develop my practical knowldege and want to gain experience.</p>
 
 
 <h3 align="left">Connect with me:</h3>
