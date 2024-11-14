@@ -30,7 +30,9 @@ Also I have a great experience & interest in computer networking and hardware at
     <b><i>Personal Portfolio</i></b>
   </li>
   <p style="margin-left: 10px"> 
-    In my perosnal Portfolio, I used some programming languages like HTML, CSS, JavaScript and Online Database, Through online database we can get the E-mail messages of the users.
+    <i>
+      In my perosnal Portfolio, I used some programming languages like HTML, CSS, JavaScript and Online Database, Through online database we can get the E-mail messages of the users.
+    </i>
     <br>
     Link: <a href="https://adityaray539.github.io/portfolio/" target="_blank">Portfolio</a>
   </p>
