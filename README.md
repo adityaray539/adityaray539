@@ -32,7 +32,7 @@ Also I have a great experience & interest in computer networking and hardware at
   <p style="margin-left: 10px"> 
     In my perosnal Portfolio, I used some languages like HTML, CSS, JavaScript and Online Database, Through online database we can get the E-mail messages of the users.
     <br>
-    Link: <a href="https://adityaray539.github.io/portfolio/">Portfolio</a>
+    Link: <a href="https://adityaray539.github.io/portfolio/" target="_blank">Portfolio</a>
   </p>
   <li>
     <b><i>Online Voting System</i></b>
