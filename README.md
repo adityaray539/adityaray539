@@ -40,7 +40,9 @@ Also I have a great experience & interest in computer networking and hardware at
     <b><i>Online Voting System</i></b>
   </li>
   <p style="margin-left: 10px">
-    This is my full stack Online Voting System project. In this project, i used Front end as well as Back end programming. In Front end programming, i used HTML, CSS, JavaScript and BootStrap. And in Backend programming, i used PHP and mySQL.
+    <i>
+      This is my full stack Online Voting System project. In this project, i used Front end as well as Back end programming. In Front end programming, i used HTML, CSS, JavaScript and BootStrap. And in Backend programming, i used PHP and mySQL.
+    </i>
   </p>
 </ul>
 
