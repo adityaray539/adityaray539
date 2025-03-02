@@ -41,6 +41,7 @@ Also I have a great experience & interest in computer networking and hardware at
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
+<hr />
 </ul>
 
 <h3>My Projects:</h3>
