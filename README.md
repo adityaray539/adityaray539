@@ -1,10 +1,12 @@
 <h1 align="center">Hey Everyone 👋, I'm Aditya Kumar Ray</h1>
 <h3>About Me:</h3>
 <p>
-I am an obedient final year year Student of Cimage college, I completed internship as Web developer at Octanet and Fronted Web Developer at CodSoft.
-Also I have a great experience & interest in computer networking and hardware at last I want to make my career in the tech field also want to learn more and more to obtain success. I completed internship as Web developer at Octanet and CodSoft Also I have a great experience & interest in computer networking and hardware at last I want to make my career in the tech field also want to learn more and more to obtain success.
+I am a final-year student at CIMAGE College with a strong passion for technology and innovation. I have completed internships as a Web Developer at Octanet and a Frontend Web Developer at CodSoft, where I honed my skills in creating responsive and user-friendly web applications.
+
+In addition to web development, I have a deep interest in computer networking and hardware. My goal is to build a successful career in the tech industry, continuously expanding my knowledge and expertise.
+
+I am also skilled in data analysis and software development, always eager to explore new challenges and opportunities. I am actively looking for a role where I can apply my skills, gain practical experience, and contribute effectively to impactful projects.
 </p>
-<p>I am looking for an opportunity where i can develop my practical knowldege and want to gain experience.</p>
 
 
 <h2>My skills 🚀:</h2> 
