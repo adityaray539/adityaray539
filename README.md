@@ -8,9 +8,8 @@ Also I have a great experience & interest in computer networking and hardware at
 <p>I am looking for an opportunity where i can develop my practical knowldege and want to gain experience.</p>
 
 
-<h2>My skills:</h2> 
+<h2>My skills 🚀:</h2> 
 <ul>
-  ## 🚀 Skills & Technologies
 
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -30,23 +29,6 @@ Also I have a great experience & interest in computer networking and hardware at
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-💡 *Feel free to customize this list based on your skills!*
- 
-  <li>HTML, CSS, JavaScript</li>
-  <li>NodeJS, ReactJS, MongoDB, Expess</li>
-  <li>MySQL, SQL Server</li>
-  <li>PHP</li>
-  <li>C Programming language</li>
-  <li>C++ Programming language</li>
-  <li>Java Programming language</li>
-  <li>Networking</li>
-  <li>Databases</li>
-  <li>Microsoft Excel, PowerPoint</li>
-  <li>Communication</li>
-  <li>Leadership</li>
 </ul>
 
 <h3>My Projects:</h3>
