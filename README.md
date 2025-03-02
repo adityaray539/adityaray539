@@ -1,4 +1,18 @@
 <h1 align="center">Hey Everyone 👋, I'm Aditya Kumar Ray</h1>
+## 📌 My Projects
+
+### 🌟 Doctor Appointment System
+![Doctor Appointment](https://raw.githubusercontent.com/your-username/your-repo/main/assets/doctor-appointment.png)
+
+🔗 [Live Demo](https://doctor-appointment.com)  
+📂 [GitHub Repo](https://github.com/your-username/doctor-appointment)
+
+### 🌟 Farmer-to-Consumer Platform
+![Farmer Marketplace](https://raw.githubusercontent.com/your-username/your-repo/main/assets/farmer-platform.png)
+
+🔗 [Live Demo](https://farmer-marketplace.com)  
+📂 [GitHub Repo](https://github.com/your-username/farmer-platform)
+
 
 <h3>About Me:</h3>
 <p>
