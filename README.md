@@ -86,6 +86,29 @@ I am also skilled in data analysis and software development, always eager to exp
      <br>
     📂 GitHub Repo: <a href="https://github.com/adityaray539/Doctor-Appointment-System" target="_blank">Click here</a>
   </p>
+
+
+
+  <li>
+    <b><i> 🌟 Some Frontend Websites</i></b>
+  </li>
+  <p style="margin-left: 10px">
+    <i>
+      Here is some frontent websites, I made during practice of my projects these all project is very helpful for me to learnign web development:----
+      <ul>
+        <li>
+          🔗 Live Demo of 1st project: <a href="https://adityaray539.github.io/CATALYST/" target="_blank">Portfolio</a>
+        </li>
+      </ul>
+    </i>
+  </p>
+
+
+
+
+
+
+    
   <li>
     <b><i> 🌟 Online Voting System</i></b>
   </li>
