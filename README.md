@@ -3,6 +3,7 @@
 
 <h2>My skills:</h2> 
 <ul>
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
   <li>HTML, CSS, JavaScript</li>
   <li>NodeJS, ReactJS, MongoDB, Expess</li>
   <li>MySQL, SQL Server</li>
