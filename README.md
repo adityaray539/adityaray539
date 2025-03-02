@@ -87,7 +87,7 @@ Also I have a great experience & interest in computer networking and hardware at
       A full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for seamless doctor appointment booking. It features secure user authentication, real-time notifications, appointment scheduling, rescheduling, and cancellation. The responsive design ensures compatibility across devices, enhancing user experience.
     </i>
      <br>
-    Link: <a href="https://github.com/adityaray539/Doctor-Appointment-System" target="_blank">Click here</a>
+    GitHub Repo 📂: <a href="https://github.com/adityaray539/Doctor-Appointment-System" target="_blank">Click here</a>
   </p>
   <li>
     <b><i>Online Voting System</i></b>
