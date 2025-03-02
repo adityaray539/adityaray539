@@ -79,8 +79,6 @@ I am also skilled in data analysis and software development, always eager to exp
   </p>
   <li>
     <b><i> 🌟 Doctor Appointment System</i></b>
-
-
   <p style="margin-left: 10px">
     <i>
       A full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for seamless doctor appointment booking. It features secure user authentication, real-time notifications, appointment scheduling, rescheduling, and cancellation. The responsive design ensures compatibility across devices, enhancing user experience.
