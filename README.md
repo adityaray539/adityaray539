@@ -47,6 +47,14 @@ Also I have a great experience & interest in computer networking and hardware at
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
+  <h3>🌟 Soft Skills</h3>
+  <img src="https://img.shields.io/badge/Communication-%2300A896.svg?style=for-the-badge&logo=google-meet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teamwork-%23FF6B6B.svg?style=for-the-badge&logo=teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-%23FFB400.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-%23A29BFE.svg?style=for-the-badge&logo=leaderboard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptability-%234CAF50.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Management-%23F0932B.svg?style=for-the-badge&logo=google-calendar&logoColor=white" />
+
 </div>
 <hr />
 </ul>
