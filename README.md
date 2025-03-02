@@ -97,7 +97,13 @@ I am also skilled in data analysis and software development, always eager to exp
       Here is some frontent websites, I made during practice of my projects these all project is very helpful for me to learnign web development:----
       <ul>
         <li>
-          🔗 Live Demo of 1st project: <a href="https://adityaray539.github.io/CATALYST/" target="_blank">Portfolio</a>
+          🔗 Live Demo of 1st project: <a href="https://adityaray539.github.io/CATALYST/" target="_blank">Click here</a>
+        </li>
+        <li>
+          🔗 Live Demo of 2nd project: <a href="https://adityaray539.github.io/Mycoffeeshop/" target="_blank">Click here</a>
+        </li>
+        <li>
+          🔗 Live Demo of 3rd project: <a href="https://delicate-kangaroo-4745a6.netlify.app/" target="_blank">Click here</a>
         </li>
       </ul>
     </i>
