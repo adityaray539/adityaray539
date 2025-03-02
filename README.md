@@ -1,19 +1,4 @@
 <h1 align="center">Hey Everyone 👋, I'm Aditya Kumar Ray</h1>
-## 📌 My Projects
-
-### 🌟 Doctor Appointment System
-![Doctor Appointment](https://raw.githubusercontent.com/your-username/your-repo/main/assets/doctor-appointment.png)
-
-🔗 [Live Demo](https://doctor-appointment.com)  
-📂 [GitHub Repo](https://github.com/your-username/doctor-appointment)
-
-### 🌟 Farmer-to-Consumer Platform
-![Farmer Marketplace](https://raw.githubusercontent.com/your-username/your-repo/main/assets/farmer-platform.png)
-
-🔗 [Live Demo](https://farmer-marketplace.com)  
-📂 [GitHub Repo](https://github.com/your-username/farmer-platform)
-
-
 <h3>About Me:</h3>
 <p>
 I am an obedient final year year Student of Cimage college, I completed internship as Web developer at Octanet and Fronted Web Developer at CodSoft.
@@ -66,20 +51,21 @@ Also I have a great experience & interest in computer networking and hardware at
 <hr />
 </ul>
 
-<h3>My Projects:</h3>
+<h3>📌 My Projects:</h3>
 <ul>
   <li>
-    <b><i>Personal Portfolio</i></b>
+    <b><i> 🌟 Personal Portfolio</i></b>
   </li>
   <p style="margin-left: 10px"> 
     <i>
       In my perosnal Portfolio, I used some programming languages like HTML, CSS, JavaScript and Online Database, Through online database we can get the E-mail messages of the users.
     </i>
     <br>
-    Link: <a href="https://adityaray539.github.io/portfolio/" target="_blank">Portfolio</a>
+    🔗 Live Demo: <a href="https://adityaray539.github.io/portfolio/" target="_blank">Portfolio</a>
+    📂 GitHub Repo: <a href="https://github.com/adityaray539/portfolio" target="_blank">Portfolio</a>
   </p>
   <li>
-    <b><i>Doctor Appointment System</i></b>
+    <b><i> 🌟 Doctor Appointment System</i></b>
 
 
   <p style="margin-left: 10px">
@@ -87,10 +73,10 @@ Also I have a great experience & interest in computer networking and hardware at
       A full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for seamless doctor appointment booking. It features secure user authentication, real-time notifications, appointment scheduling, rescheduling, and cancellation. The responsive design ensures compatibility across devices, enhancing user experience.
     </i>
      <br>
-    GitHub Repo 📂: <a href="https://github.com/adityaray539/Doctor-Appointment-System" target="_blank">Click here</a>
+    📂 GitHub Repo: <a href="https://github.com/adityaray539/Doctor-Appointment-System" target="_blank">Click here</a>
   </p>
   <li>
-    <b><i>Online Voting System</i></b>
+    <b><i> 🌟 Online Voting System</i></b>
   </li>
   <p style="margin-left: 10px">
     <i>
